@@ -27,7 +27,8 @@ namespace cadastro_series_dotnet.Classes
             retorno += "Gênero: " + this.genero + Environment.NewLine;
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
-            retorno += "Ano de Início: " + this.Ano;
+            retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
+            retorno += "Exluído: " + this.Excluido;
             return retorno;
 
         }
@@ -39,6 +40,10 @@ namespace cadastro_series_dotnet.Classes
         internal int retornaId()
         {
             return this.Id;
+        }
+        internal bool retornaExcluido()
+        {
+            return this.Excluido;
         }
 
         public void Exclui()

@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\bin\Debug\net6.0\cadastro_series_dotnet.exe
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\bin\Debug\net6.0\cadastro_series_dotnet.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\bin\Debug\net6.0\cadastro_series_dotnet.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\bin\Debug\net6.0\cadastro_series_dotnet.dll
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\bin\Debug\net6.0\cadastro_series_dotnet.pdb
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.dll
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\refint\cadastro_series_dotnet.dll
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.pdb
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\cadastro_series_dotnet.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\CadastroSeries\cadastro_series_dotnet\obj\Debug\net6.0\ref\cadastro_series_dotnet.dll
